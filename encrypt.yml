@@ -1,0 +1,5 @@
+spring:
+   datasource:
+      username: root
+      # 此处要加上单引号，如果是.properties结尾的配置文件不需要加单引号
+      password: '72c803dae87e0ab039f6137db165267faa2bc8c348cc5b59d192d8eedd9d2f81'
